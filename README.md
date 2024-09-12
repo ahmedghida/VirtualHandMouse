@@ -74,16 +74,18 @@ Press 'q' to exit the application.
 
 The following GIF demonstrates how to perform a right-click action using hand gestures:
 
-![Right Click Gesture](media\right_click.gif)
+<img src='media/right_click.gif' width='500'/>
+
 
 ### 2. Move Mouse and Left-click
 
 The following GIF shows how to move the mouse and perform a left-click action:
 
-![Move and Left Click](media\move_leftclick.gif)
+<img src='media/move_leftclick.gif' width='500'/>
+
 
 ### 3. Move Mouse and Double-click
 
 The following GIF illustrates how to move the mouse and perform a double-click action:
 
-![Move and Double Click](media\move_doubleclick.gif)
+<img src='media/move_doubleclick.gif' width='500'/>
